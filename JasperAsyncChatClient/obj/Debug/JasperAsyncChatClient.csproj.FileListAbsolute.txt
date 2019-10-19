@@ -1,0 +1,11 @@
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\bin\Debug\JasperAsyncChatClient.exe.config
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\bin\Debug\JasperAsyncChatClient.exe
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\bin\Debug\JasperAsyncChatClient.pdb
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\obj\Debug\JasperAsyncChatClient.csprojAssemblyReference.cache
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\obj\Debug\JasperAsyncChatClient.MainFrm.resources
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\obj\Debug\JasperAsyncChatClient.NetworkSetting.resources
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\obj\Debug\JasperAsyncChatClient.Properties.Resources.resources
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\obj\Debug\JasperAsyncChatClient.csproj.GenerateResource.cache
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\obj\Debug\JasperAsyncChatClient.exe
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\obj\Debug\JasperAsyncChatClient.pdb
+C:\Users\scout\source\repos\JasperAsyncChatClient\JasperAsyncChatClient\obj\Debug\JasperAsyncChatClient.AsyncNetworkRoom.resources
